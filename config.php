@@ -17,8 +17,8 @@ $CFG->dboptions = array (
   'dbsocket' => '',
 );
 
-$CFG->wwwroot   = getenv('WWWROOT');
-$CFG->dataroot  = getenv('DATAROOT');
+$CFG->wwwroot   = getenv('http://sitioweb-programaciondeverdad.herokuapp.com');
+$CFG->dataroot  = getenv('/tmp');
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
