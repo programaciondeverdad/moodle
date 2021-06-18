@@ -7,7 +7,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/moodlehq/php-webdriver.git"
+            "url": "https://github.com/programaciondeverdad/moodle.git"
         }
     ],
     "require": {
@@ -18,10 +18,8 @@
         "ext-soap": "*",
         "ext-xmlrpc": "*",
         "ext-iconv": "*",
-        "ext-mbstring": "*",
         "ext-curl": "*",
         "ext-tokenizer": "*",
-        "ext-xmlrpc": "*",
         "ext-soap": "*",
         "ext-ctype": "*",
         "ext-zip": "*",
