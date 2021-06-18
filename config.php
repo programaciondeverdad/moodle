@@ -17,7 +17,7 @@ $CFG->dboptions = array (
   'dbsocket' => '',
 );
 
-$CFG->wwwroot   = 'https://sitioweb-programaciondeverdad.herokuapp.com';
+$CFG->wwwroot   = 'http://sitioweb-programaciondeverdad.herokuapp.com';
 $CFG->dataroot  = '/tmp';
 $CFG->admin     = 'admin';
 
